@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋, I'm Shasmit AKA SUS🤫</h1>
-<h3 align="center">A learner and a beginner in the world of coding.</h3>
+<h1 align="center">Hello guys myself Shasmit Basnet AKA Sus </h1>
+<h3 align="center">Simply a learner</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shasmit&label=Profile%20views&color=02ede9&style=plastic" alt="shasmit" /> </p>
 
-- 🔭 I’m currently working on --.
-- 🌱 I’m currently learning --
+- 🪶 I’m currently working on my personal portfolio website.
+- 🕸️ I’m currently learning CSS,JavaScript,Django
 
 
 <h3 align="left">Projects I have worked on:</h3>
-<a href="">
- <img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" >
-</a>
 
+
+
+<a href="">
+ <img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
+ 
+<a href=""><img align="center" title="Driver Dai" src="https://i.ibb.co/FJPdz2H/driver-dai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
+ 
+<a href=""><img align="center" title="YouTube Video Downloder" src="http://i.ibb.co/qxFgWDS/yt.png" alt="yt" style="width: 50px; height:50px;"></a>
+
+<a href="https://imgbb.com/"><img align="center" title="Facebook Video Downloder" src="https://i.ibb.co/Hns7ZmK/fb.png" alt="fb" style="width: 45px; height:45px;"></a>
+ 
 
 
 

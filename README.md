@@ -1,4 +1,4 @@
-<h1 align="center">Hello guys myself Shasmit Basnet AKA Sus </h1>
+<h1 align="center">Hello guys myself Shasmit Basnet</h1>
 <h3 align="center">Simply a learner</h3>
 
 <br>

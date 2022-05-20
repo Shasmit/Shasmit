@@ -14,8 +14,8 @@
 
 
 <div style="display:flex; justify-content: row; align-items: center; justify-content: center;">
-    <a href=""><img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
-    <a href=""><img align="center" title="Driver Dai" src="https://i.ibb.co/FJPdz2H/driver-dai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
+    <a href="https://github.com/Shasmit/Calculator.git"><img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
+    <a href="https://github.com/Shasmit/Driver-Dai.git"><img align="center" title="Driver Dai" src="https://i.ibb.co/FJPdz2H/driver-dai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
     <a href=""><img align="center" title="YouTube Video Downloder" src="http://i.ibb.co/qxFgWDS/yt.png" alt="yt" style="width: 50px; height:50px;"></a>
     <a href="https://imgbb.com/"><img align="center" title="Facebook Video Downloder" src="https://i.ibb.co/Hns7ZmK/fb.png" alt="fb" style="width: 40px; height:40px;"></a>
 </div>

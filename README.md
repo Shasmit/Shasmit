@@ -1,12 +1,10 @@
-<h1 align="center">Hello guys Myself Shasmit Basnet 👾</h1>
+<h1 align="center">Hello guys Myself Shasmit 👾</h1>
 <h3 align="center">Simply a learner</h3>
 
 
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shasmit&label=Profile%20views&color=02ede9&style=plastic" alt="shasmit" /> </p>
-
-<h3> 🪶 I’m currently working on my personal portfolio website.</h3>
 <h3> 🕸️ I’m currently learning CSS, JavaScript, Django, React </h3>
 
 <br>

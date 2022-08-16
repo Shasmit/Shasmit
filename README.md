@@ -1,11 +1,9 @@
-<h1 align="center">Hello guys Myself Shasmit 👾</h1>
-<h3 align="center">Simply a learner</h3>
-
+<h1 align="center">It's Shasmit here!!👾</h1>
 
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shasmit&label=Profile%20views&color=02ede9&style=plastic" alt="shasmit" /> </p>
-<h3> 🕸️ I’m currently learning CSS, JavaScript, Django, React </h3>
+<h3> 🕸️ I'm efficient in web development front-end technologies like HTML, CSS and JavaScript. </h3>
 
 <br>
 
@@ -17,7 +15,7 @@
 <p align="center">
     <a href="https://github.com/Shasmit/Calculator.git"><img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
     <a href="https://github.com/Shasmit/Driver-Dai.git"><img align="center" title="Driver Dai" src="https://i.ibb.co/FJPdz2H/driver-dai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
-    <a href="https://github.com/Shasmit/Youtube-Vid-Downloader.git"><img align="center" title="YouTube Video Downloder" src="http://i.ibb.co/qxFgWDS/yt.png" alt="yt" style="width: 50px; height:50px;"></a>
+    <a href="https://github.com/Shasmit/Youtube-Vid-Downloader.git"><img align="center" title="YouTube Video Downloder" src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-logo-png-hd-21.png" alt="yt" style="width: 50px; height:50px;"></a>
     <a href="https://github.com/Shasmit/Facebook-Video-Downloader.git"><img align="center" title="Facebook Video Downloder" src="https://i.ibb.co/Hns7ZmK/fb.png" alt="fb" style="width: 40px; height:40px;"></a>
     <a href="https://github.com/Shasmit/Recycle-IT.git"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7RbxSsC/logo.png" height="90" width="90" ></a> </p>
 <!-- </div> -->

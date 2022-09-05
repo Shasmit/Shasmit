@@ -19,7 +19,7 @@
     <br>
     <a href="https://github.com/Shasmit/Facebook-Video-Downloader.git"><img align="center" title="Facebook Video Downloder" src="https://i.ibb.co/Hns7ZmK/fb.png" alt="fb" style="width: 40px; height:40px;"></a>
     <a href="https://github.com/Shasmit/Recycle-IT.git"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7RbxSsC/logo.png" height="90" width="90" ></a>
-     <a href="https://github.com/Shasmit/Projo"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7Wp0KhL/projobg.png" height="70" width="90" ></a></p>
+     <a href="https://projodummy.netlify.app/"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7Wp0KhL/projobg.png" height="70" width="90" ></a></p>
 <!-- </div> -->
 
 

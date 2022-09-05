@@ -40,8 +40,6 @@
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" alt="Android Studio" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="40" height="40"/>
-<img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" alt="AI" width="40" height="40"/>
-<img src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-cc-splash-png-logo-3.png" alt="photoshop" width="40" height="40"/>
 <img src="https://1000logos.net/wp-content/uploads/2021/10/Canva-logo.png" alt="Canva" width="50" height="40"/>
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/>
 </p>

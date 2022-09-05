@@ -16,10 +16,11 @@
     <a href="https://github.com/Shasmit/Calculator.git"><img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
     <a href="https://github.com/Shasmit/Driver-Dai.git"><img align="center" title="Driver Dai" src="https://i.ibb.co/zNZbPky/driverdai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
     <a href="https://github.com/Shasmit/Youtube-Vid-Downloader.git"><img align="center" title="YouTube Video Downloder" src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-logo-png-hd-21.png" alt="yt" style="width: 50px; height:50px;"></a>
+    <a href="https://susprintsbackup.netlify.app/"><img align="center" title="SusPrints" src="https://i.ibb.co/92HZz17/susprints-logo.png" alt="sus" style="width: 50px; height:50px;"></a>
     <br>
     <a href="https://github.com/Shasmit/Facebook-Video-Downloader.git"><img align="center" title="Facebook Video Downloder" src="https://i.ibb.co/Hns7ZmK/fb.png" alt="fb" style="width: 40px; height:40px;"></a>
     <a href="https://github.com/Shasmit/Recycle-IT.git"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7RbxSsC/logo.png" height="90" width="90" ></a>
-     <a href="https://projodummy.netlify.app/"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7Wp0KhL/projobg.png" height="70" width="90" ></a></p>
+     <a href="https://projodummy.netlify.app/"><img align="center" title="Projo" src="https://i.ibb.co/7Wp0KhL/projobg.png" height="70" width="90" ></a></p>
 <!-- </div> -->
 
 

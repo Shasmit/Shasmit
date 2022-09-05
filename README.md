@@ -30,6 +30,7 @@
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" alt="Dart" width="40" height="40"/>
+    <img src="https://www.computerhope.com/jargon/j/javascript.png" alt="JS" width="40" height="40"/>
 </p>
 
 
@@ -39,7 +40,6 @@
 <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://www.computerhope.com/jargon/j/javascript.png" alt="JS" width="35" height="35"/>
 <img src="https://1000logos.net/wp-content/uploads/2021/10/Canva-logo.png" alt="Canva" width="50" height="40"/>
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/>
 </p>

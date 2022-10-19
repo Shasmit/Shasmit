@@ -1,46 +1,52 @@
-<h1 align="center">It's Shasmit here!!👾</h1>
-
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shasmit&label=Profile%20views&color=02ede9&style=plastic" alt="shasmit" /> </p>
-<h3> 🕸️ I am a learner looking for the moment to utilize
-                          my learnings. </h3>
-
-<br>
-
-<h2 align="center">Projects I have worked on:</h3>
-
-
-<!-- <div align="center" style="display:flex; justify-content: row; align-items: center; justify-content: center;"> -->
-    
+<h1 align="center"> Hello, It's Shasmit Basnet 👾 </br> 
+</h1>
+<p align="center">🔭 I’m currently working on my personal website</p>
+<p align="center">🕸️ I’m currently learning <img  align="center" src="https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink"></p>
 <p align="center">
-    <a href="https://github.com/Shasmit/Driver-Dai.git"><img align="center" title="Driver Dai" src="https://i.ibb.co/zNZbPky/driverdai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
-    <a href="https://susprintsbackup.netlify.app/"><img align="center" title="SusPrints" src="https://i.ibb.co/92HZz17/susprints-logo.png" alt="sus" style="width: 90px; height:90px;"></a>
-    <a href="https://sakshamnepal.netlify.app/"><img align="center" title="Aagyat" src="https://i.ibb.co/8ss2z7Y/agyat.png" alt="aagyat" style="width: 90px; height:90px;"></a>
-    <a href="https://github.com/Shasmit/Facebook-Video-Downloader.git"><img align="center" title="Facebook Video Downloder" src="https://i.ibb.co/Hns7ZmK/fb.png" alt="fb" style="width: 40px; height:40px;"></a>
-     <a href="https://projodummy.netlify.app/"><img align="center" title="Projo" src="https://i.ibb.co/7Wp0KhL/projobg.png" style="width: 90px; height:90px;" ></a></p>
-<!-- </div> -->
+
+<div  align="center">
+<h3>🌐 Socials :</h3>
+<a href="https://twitter.com/ShasmitBasnet" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/shasmit-basnet-777b3420a/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
+</div>
+
+## Tech Stack 💻
+#### Languages
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FFFF)
+
+#### Frameworks
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
+
+#### CSS Framework/Library
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+#### Design/Visual Tools
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 
+#### Database
+![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
-<h2 align="center">Languages I know:</h3>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" alt="Dart" width="40" height="40"/>
-    <img src="https://www.computerhope.com/jargon/j/javascript.png" alt="JS" width="40" height="40"/>
-</p>
+#### Backend
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-<br>
-<h2 align="center">Tools and Technologies i'm familiar with:</h3>
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://1000logos.net/wp-content/uploads/2021/10/Canva-logo.png" alt="Canva" width="50" height="40"/>
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/>
-</p>
+## GitHub Stats 📊
+![](https://github-readme-stats.vercel.app/api?username=nischalbista0&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nischalbista0&theme=react&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nischalbista0&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasmit&show_icons=true&theme=dark&title_color=6adbd9&hide_border=true&locale=en&layout=compact" alt="shasmit" /></p>
+[![](https://visitcount.itsvg.in/api?id=nischalbista0&pretty=true)](https://github-visitor-counter-pro.vercel.app)

@@ -1,12 +1,11 @@
 <h1 align="center"> Hello, It's Shasmit Basnet 👾 </br> 
 </h1>
 <p align="center">🔭 I’m currently working on my personal website</p>
-<p align="center">🕸️ I’m currently learning <img  align="center" src="https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink"></p>
+<p align="center">🕸️ I’m currently learning <img  align="center" src="https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react"></p>
 <p align="center">
 
 <div  align="center">
 <h3>🌐 Socials :</h3>
-<a href="https://twitter.com/ShasmitBasnet" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/shasmit-basnet-777b3420a/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 </div>
 
@@ -19,7 +18,6 @@
 ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FFFF)
 
 #### Frameworks
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
 
 #### CSS Framework/Library
@@ -29,10 +27,13 @@
 #### Design/Visual Tools
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
+#### Projects I have Worked On
+<a href="https://github.com/Shasmit/Driver-Dai" target="_blank"><img alt="" src="https://img.shields.io/badge/App-DRIVER%20DAI-blue"/></a>
+<a href="https://projodummy.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-PROJO-brightgreen"/></a>
+<a href="https://sakshamnepal.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-AAGYAT-lightgrey"/></a></p>
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Backend
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,11 +43,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=nischalbista0&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nischalbista0&theme=react&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nischalbista0&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shasmit&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shasmit&theme=react&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shasmit&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=nischalbista0&pretty=true)](https://github-visitor-counter-pro.vercel.app)

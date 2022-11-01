@@ -9,6 +9,12 @@
 <a href="https://www.linkedin.com/in/shasmit-basnet-777b3420a/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 </div>
 
+## Projects I have Worked On
+<a href="https://github.com/Shasmit/Driver-Dai" target="_blank"><img alt="" src="https://img.shields.io/badge/App-DRIVER%20DAI-blue"/></a>
+<a href="https://projodummy.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-PROJO-brightgreen"/></a>
+<a href="https://sakshamnepal.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-AAGYAT-lightgrey"/></a></p>
+
+
 ## Tech Stack 💻
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
@@ -26,11 +32,6 @@
 
 #### Design/Visual Tools
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-
-#### Projects I have Worked On
-<a href="https://github.com/Shasmit/Driver-Dai" target="_blank"><img alt="" src="https://img.shields.io/badge/App-DRIVER%20DAI-blue"/></a>
-<a href="https://projodummy.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-PROJO-brightgreen"/></a>
-<a href="https://sakshamnepal.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-AAGYAT-lightgrey"/></a></p>
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)

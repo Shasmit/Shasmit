@@ -5,7 +5,7 @@
 <p align="center">
 
 <div  align="center">
-<h3>🌐 Socials :</h3>
+ <a href="https://shasmitbasnet.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/shasmit-basnet-777b3420a/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 </div>
 

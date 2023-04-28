@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, It's Shasmit Basnet 👾 </br> 
 </h1>
-<p align="center">🔭 I’m currently working on my personal website</p>
-<p align="center">🕸️ I’m currently learning <img  align="center" src="https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react"></p>
+<p align="center">🔭 I’m currently working on my college project</p>
+<p align="center">🕸️ Learning <img  align="center" src="https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink"></p>
 <p align="center">
 
 <div  align="center">
@@ -25,16 +25,19 @@
 
 #### Frameworks
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 
 #### CSS Framework/Library
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Design/Visual Tools
+![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Backend
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)

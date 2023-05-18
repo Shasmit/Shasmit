@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FFFF)
 
-#### Frameworks
+#### Frameworks/Library
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 

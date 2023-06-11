@@ -26,6 +26,9 @@
 #### Frameworks/Library
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=Express.js&logoColor=5BC2F0)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
+
 
 #### CSS Framework/Library
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
@@ -41,6 +44,7 @@
 
 #### Backend
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23000.svg?style=for-the-badge&logo=node.js&logoColor=6FA760)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)

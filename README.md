@@ -1,7 +1,6 @@
-<h1 align="center"> Hello, It's Shasmit Basnet 👾 </br> 
+<h1 align="center"> こんにちは, It's Shasmit Basnet 🦹‍♂️ </br> 
 </h1>
-<p align="center">🔭 I’m currently working on my college project</p>
-<p align="center">🕸️ Learning <img  align="center" src="https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink"></p>
+<p align="center">Living life as a continuous loop, exploring both the analog and digital realms ➰</p>
 <p align="center">
 
 <div  align="center">

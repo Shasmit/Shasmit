@@ -1,4 +1,4 @@
-<h1 align="center"> こんにちは, It's Shasmit Basnet 🦹‍♂️ </br> 
+<h1 align="center"> こんにちは, It's Shasmit Basnet 👨‍💻 </br> 
 </h1>
 <p align="center">Living life as a continuous loop, exploring both the analog and digital realms ➰</p>
 <p align="center">
@@ -25,7 +25,7 @@
 #### Frameworks/Library
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=Express.js&logoColor=5BC2F0)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=00000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
 
 

@@ -9,18 +9,19 @@
 </div>
 
 ## Projects I have Worked On
-<a href="https://github.com/Shasmit/Driver-Dai" target="_blank"><img alt="" src="https://img.shields.io/badge/App-DRIVER%20DAI-blue"/></a>
+<a href="https://github.com/Shasmit/FilmCrate" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-FILMCRATE-darkblue"/></a>
+<a href="https://github.com/Shasmit/Driver-Dai" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-DRIVER%20DAI-blue"/></a>
 <a href="https://projodummy.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-PROJO-brightgreen"/></a>
 <a href="https://sakshamnepal.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-AAGYAT-lightgrey"/></a></p>
 
 
 ## Tech Stack 💻
 #### Languages
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FFFF)
 
 #### Frameworks/Library
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
@@ -50,8 +51,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=shasmit&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shasmit&theme=react&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shasmit&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Shasmit&theme=flutter&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shasmit&theme=flutter&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shasmit&theme=flutter&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
-[![](https://visitcount.itsvg.in/api?id=nischalbista0&pretty=true)](https://github-visitor-counter-pro.vercel.app)
+![](https://visitcount.itsvg.in/api?id=Shasmit&label=Profile%20Views&color=0&icon=2&pretty=false)

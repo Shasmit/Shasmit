@@ -53,7 +53,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=Shasmit)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shasmit&theme=flutter&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shasmit&theme=flutter&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 

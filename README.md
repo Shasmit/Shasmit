@@ -9,6 +9,7 @@
 </div>
 
 ## Projects I have Worked On
+<a href="https://play.google.com/store/apps/details?id=com.loko.events.loko_events&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-LOKO-gold"/></a>
 <a href="https://github.com/Shasmit/Caredoot" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-CAREDOOT-skyblue"/></a>
 <a href="https://github.com/Shasmit/ExplorePal" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-ExplorePal-lightgreen"/></a>
 <a href="https://github.com/Shasmit/FilmCrate" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-FILMCRATE-darkblue"/></a>

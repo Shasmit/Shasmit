@@ -10,10 +10,10 @@
 
 ## Projects I have Worked On
 <a href="https://play.google.com/store/apps/details?id=com.loko.events.loko_events&hl=en" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-LOKO-gold"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.cricket.scorekeeper&hl=en" target="_blank"><img alt="JumpCric" src="https://img.shields.io/badge/Flutter-JUMPCRIC-blue"/></a>
 <a href="https://github.com/Shasmit/Caredoot" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-CAREDOOT-skyblue"/></a>
 <a href="https://github.com/Shasmit/ExplorePal" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-ExplorePal-lightgreen"/></a>
 <a href="https://github.com/Shasmit/FilmCrate" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-FILMCRATE-darkblue"/></a>
-<a href="https://github.com/Shasmit/Driver-Dai" target="_blank"><img alt="" src="https://img.shields.io/badge/Flutter-DRIVER%20DAI-blue"/></a>
 <a href="https://projodummy.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-PROJO-brightgreen"/></a>
 <a href="https://sakshamnepal.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Web-AAGYAT-lightgrey"/></a></p>
 

@@ -1,4 +1,4 @@
-<h1 align="center"> こんにちは, It's Shasmit Basnet 👨‍💻 </br> 
+<h1 align="center"> Hello, It's Shasmit Basnet 👨‍💻 </br> 
 </h1>
 <p align="center">Living life as a continuous loop, exploring both the analog and digital realms ➰</p>
 <p align="center">
